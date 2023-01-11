@@ -41,12 +41,12 @@
 <div align="left">
   
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula)
-[![Aditya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&theme=dracula)
   
 </div>
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&theme=dracula)
+[![Aditya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula)](https://git.io/streak-stats)
   
 </div>
