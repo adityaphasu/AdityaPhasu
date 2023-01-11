@@ -1,6 +1,9 @@
 
 
 
+![Pixelated Banner](https://github.com/adityaphasu/AdityaPhasu/blob/main/images/banner.png)
+
+
 
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
 - 🌱 I’m currently learning **React.js**
@@ -11,5 +14,7 @@
 
 
 
+
+<h3 align="center">My GitHuB Stats</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=modern-lilac&hide_border=true)](https://git.io/streak-stats)
