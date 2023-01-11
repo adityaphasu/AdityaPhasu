@@ -7,7 +7,7 @@
 
 <br>
 
-- 🎓 I'm pursuing Bachelor of Technology from Guru Gobind Singh University.
+- 🎓 I'm currently pursuing Bachelor of Technology from Guru Gobind Singh University.
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
 - 🌱 I’m currently learning **React.js**
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
