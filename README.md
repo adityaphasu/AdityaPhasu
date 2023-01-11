@@ -1,6 +1,6 @@
 ![Pixelated Banner](https://github.com/adityaphasu/AdityaPhasu/blob/main/images/banner.png)
 
-<p align="center">I'm a 2nd-year engineering student and novice at web development.I'm still getting the hang of it, but I'm excited to learn and keep growing my skills so that I can build projects that will showcase my abilities!✨
+<p align="center">I'm a 2nd-year engineering student and novice at web development. I'm still getting the hang of it, but I'm excited to learn and keep growing my skills so that I can build projects showcasing my abilities!✨
 </p>
 
 #
@@ -38,15 +38,18 @@
 
 <br>
 
-<div align="left">
-  
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&theme=dracula)
-  
+<div align="center">
+
+<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&theme=dracula" />
 </div>
+
+<br>
 
 <div align="center">
   
-[![Aditya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula)](https://git.io/streak-stats)
+<img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula" />
   
 </div>
