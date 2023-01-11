@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**adityaphasu/AdityaPhasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
+- 🌱 I’m currently learning **React.js**
+- ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
+
+<h3 align="center">Languages and Tools</h3>
+
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=modern-lilac&hide_border=true)](https://git.io/streak-stats)
