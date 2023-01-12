@@ -1,13 +1,12 @@
 ![Pixelated Banner](https://github.com/adityaphasu/AdityaPhasu/blob/main/images/banner.png)
 
-<p align="center">I'm a 2nd-year engineering student and novice at web development. I'm still getting the hang of it, but I'm excited to learn and keep growing my skills so that I can build projects showcasing my abilities!✨
+<p align="center">I'm a novice at web development and I'm still getting the hang of it, but I'm excited to learn and keep growing my skills so that I can build projects showcasing my abilities!✨
 </p>
 
 #
 
 <br>
 
-- 🎓 I'm currently pursuing Bachelor of Technology from Guru Gobind Singh University.
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
 - 🌱 I’m currently learning **React.js**
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
