@@ -44,7 +44,7 @@
 <img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 41%;" class="img" src=""https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&theme=dracula" />
+<!-- <img style="height: auto; width: 41%;" class="img" src=""https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&theme=dracula" /> -->
 </div>
 
 <br>
