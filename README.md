@@ -8,7 +8,7 @@
 <br>
 
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Javascript** and **React.js**
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
 
 <br>
