@@ -1,6 +1,6 @@
-![Pixelated Banner](https://github.com/adityaphasu/AdityaPhasu/blob/main/images/banner.png)
+<h1 align="center"> :wave: Hey, I'm Aditya </h1>
 
-<p align="center">I'm a novice at web development and I'm still getting the hang of it, but I'm excited to learn and keep growing my skills so that I can build projects showcasing my abilities!✨
+<p align="center">I'm a novice at web development and I'm still getting the hang of it, but I'm excited to learn and keep growing my skills!✨
 </p>
 
 #
