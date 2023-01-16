@@ -41,15 +41,9 @@
 
 <div align="center">
 
-<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula" />
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula" />
 &nbsp;
 &nbsp;
-</div>
-
-<br>
-
-<div align="center">
-  
 <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula" />
   
 </div>
