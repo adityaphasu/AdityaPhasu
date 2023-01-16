@@ -1,6 +1,6 @@
 <h1 align="center"> :wave: Hey, I'm Aditya </h1>
 
-<p align="center">I'm a novice at web development and I'm still getting the hang of it, but I'm excited to learn and keep growing my skills!✨
+<p align="center">I'm presently doing web development and still getting the hang of it, but I'm excited to learn a lot and keep growing my skills!✨
 </p>
 
 #
