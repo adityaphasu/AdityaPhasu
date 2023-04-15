@@ -1,7 +1,7 @@
 <h1 align="center"> :wave: Hey, I'm Aditya </h1>
 <br>
 
-<p align="center">I'm presently doing web development and still getting the hang of it, but I'm excited to learn a lot and keep developing my skills✨
+<p align="center">I'm a second-year college student learning web development right now, and while I'm still getting the hang of it, I'm eager to learn more and improve my skills 🚀🚀
 </p>
 
 #
@@ -9,7 +9,7 @@
 <br>
 
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
-- 🌱 I’m currently learning **Javascript** and **React.js**
+- 🌱 I’m currently learning **React.js**
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
 
 <br>
