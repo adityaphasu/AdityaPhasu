@@ -12,6 +12,7 @@
 <img align=right src="/assets/developer.gif" alt="GIF" width="300px" height="300px">
 
 <br>
+<br>
 
 
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
