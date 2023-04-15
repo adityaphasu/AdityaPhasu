@@ -8,11 +8,28 @@
 
 <br>
 
+
+<img align=right src="/assets/developer.gif" alt="GIF" width="300px" height="300px">
+
+<br>
+
+
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
+
+<br>
+
 - 🌱 I’m currently learning **React.js**
+
+<br>
+
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
 
 <br>
+
+
+<br>
+<br>
+
 
 <!------------------------------------------------------------------------------------------------------------------------>
 
