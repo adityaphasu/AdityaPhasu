@@ -15,11 +15,11 @@
 <br>
 
 
-- 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io)
+- 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io) 🎯
 
 <br>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Figma** 🔮
 
 <br>
 
