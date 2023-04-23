@@ -13,6 +13,7 @@
 
 <br>
 <br>
+<br>
 
 
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io) 🎯
@@ -25,11 +26,9 @@
 
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
 
-<br>
-
 
 <br>
-<br>
+
 
 
 <!------------------------------------------------------------------------------------------------------------------------>
