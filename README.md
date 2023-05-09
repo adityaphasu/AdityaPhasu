@@ -20,7 +20,7 @@
 
 <br>
 
-- 🌱 I’m currently learning how to use **Figma** 🔮
+- 🌱 I’m currently learning how to use **Framer Motion** Library
 
 <br>
 
