@@ -65,9 +65,19 @@
 
 <div align="center">
 
-<img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula" />
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula" />
 &nbsp;
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphasu&layout=donut&theme=dracula" />
 &nbsp;
-<img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula" />
   
 </div>
+
+<div align="center">
+
+<img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula" />
+&nbsp;
+
+  
+</div>
+
+
