@@ -66,9 +66,10 @@
 
 <div align="center">
 
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula" />
+
+<img class="img" src="https://github-readme-stats-two-sooty-42.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula" />
 &nbsp;
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaphasu&layout=donut&theme=dracula" />
+<img class="img" src="https://github-readme-stats-two-sooty-42.vercel.app/api/top-langs/?username=adityaphasu&layout=donut&theme=dracula" />
 &nbsp;
   
 </div>
