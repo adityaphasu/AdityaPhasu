@@ -20,7 +20,7 @@
 
 <br>
 
-- 🌱 I’m currently learning how to use **Tailwind CSS**
+- 🌱 I’m currently learning  **Next.js**
 
 <br>
 
