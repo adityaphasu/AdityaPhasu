@@ -1,12 +1,6 @@
 <h1 align="center"> :wave: Hey, I'm Aditya </h1>
 <br>
 
-<p align="center">I'm a second-year college student learning web development right now, and while I'm still getting the hang of it, I'm eager to learn more and improve my skills 🚀🚀
-</p>
-
-#
-
-<br>
 
 
 <img align=right src="/assets/developer.gif" alt="GIF" width="300px" height="300px">
