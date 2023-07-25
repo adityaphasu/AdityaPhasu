@@ -10,7 +10,7 @@
 <br>
 
 
-- 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io) and trying to upskill my frontend skills.🎯
+- 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io) and trying to upskill my frontend skills 🎯
 
 <br>
 
