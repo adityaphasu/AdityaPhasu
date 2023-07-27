@@ -6,7 +6,7 @@
 <br>
 <br>
 
-- 👨🏻‍💻 Starting my web development journey with frontend development then continuing to backend development to become a  full-stack developer.
+- 👨🏻‍💻 Starting my web development journey with frontend development then continuing to backend development to become a  full-stack developer
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io) and trying to upskill my frontend skills 🎯
 - 🌱 I’m currently learning  **Next.js**
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
