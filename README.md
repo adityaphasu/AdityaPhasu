@@ -64,6 +64,9 @@
 <br>
 <div align="center">
   
+<!-- Most Used Languages -->
+![](https://github-readme-stats-two-sooty-42.vercel.app/api/top-langs/?username=adityaphasu&layout=donut&theme=dracula)
+    
 <!-- GitHub Stats Card -->
 ![](https://github-readme-stats-two-sooty-42.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula)
 <br/>
@@ -72,9 +75,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula)
 <br/>
 
-<!-- Most Used Languages -->
-![](https://github-readme-stats-two-sooty-42.vercel.app/api/top-langs/?username=adityaphasu&layout=donut&theme=dracula)
-    
 </div>
 
 
