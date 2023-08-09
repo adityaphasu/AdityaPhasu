@@ -1,9 +1,6 @@
 <h1 align="center"> :wave: Hey, I'm Aditya </h1>
 <br>
 
-<img align=right src="/assets/developer.gif" alt="GIF" width="300px" height="300px">
-
-<br>
 <br>
 
 - 👨🏻‍💻 Starting my web development journey with frontend development, and then continuing to explore backend development.
