@@ -3,7 +3,7 @@
 
 <br>
 
-- 👨🏻‍💻 Starting my web development journey with frontend development, and then continuing to explore backend development.
+- 👨🏻‍💻 Starting my web development journey with frontend development, and then continue to explore backend development.
 - 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io/profile/adityaphasu) and trying to upskill my frontend skills 🎯
 - 🌱 I’m currently learning  **Next.js**
 - 🌟 Would like to learn more about other technologies and expand my skillset
