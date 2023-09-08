@@ -62,7 +62,7 @@
 
 <div align="center">
   
-![](https://github-readme-stats-two-sooty-42.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula)
+![](https://github-readme-stats-two-sooty-42.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula&count_private=true)
 ![](https://github-readme-stats-two-sooty-42.vercel.app/api/top-langs/?username=adityaphasu&layout=donut&theme=dracula)
 
 </div>
