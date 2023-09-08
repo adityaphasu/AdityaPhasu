@@ -3,8 +3,8 @@
 
 <br>
 
-- 👨🏻‍💻 Starting my web development journey with frontend development, and then continue to explore backend development.
-- 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io/profile/adityaphasu) and trying to upskill my frontend skills 🎯
+- 🎯 Aspiring Frontend Developer on a Journey 
+- 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io/profile/adityaphasu) and trying to upskill my frontend skills 
 - 🌱 I’m currently learning  **Next.js**
 - 🌟 Would like to learn more about other technologies and expand my skillset
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
@@ -61,12 +61,16 @@
 <br />
 
 <div align="center">
-  
-![](https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula)
-![](https://github-readme-stats-liard-kappa.vercel.app/api/top-langs/?username=adityaphasu&layout=donut&theme=dracula)
+
+![](https://github-readme-stats-liard-kappa.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&theme=dracula)
 
 </div>
-<br/>
+  
+<div align="center">
+  
+![](https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula)
+
+</div>
 
 <div align="center">
   
