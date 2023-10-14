@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning  **Next.js**
 - 🌟 Would like to learn more about other technologies and expand my skillset
 - ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
-- 🎮 I love playing games in my free time (City Skylines fan here!)<br>
 
 
 <br>
