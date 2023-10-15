@@ -65,7 +65,7 @@
 
 <section align="center"> 
 <br>
-<h2>🫱🏼‍🫲🏼 Connect with me:</h2>
+<h2>🫱🏼‍🫲🏼 Connect with me</h2>
 <br>
 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/boots)
