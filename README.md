@@ -1,18 +1,28 @@
-<h1 align="center"> :wave: Hey, I'm Aditya </h1>
-<br>
+<h1 align="center">Hi 👋, I'm Aditya Phasu</h1>
 
 <br>
 
-- 🎯 Aspiring Frontend Developer on a Journey 
-- 🔭 I’m currently working on challenges by [Frontend Mentor](https://www.frontendmentor.io/profile/adityaphasu) and trying to upskill my frontend skills 
-- 🌱 I’m currently learning  **Next.js**
-- 🌟 Would like to learn more about other technologies and expand my skillset
-- ⚡ Fun fact: I love listening to orchestras :violin::musical_note::musical_score:
+<section>
 
+- 🧑🏻‍💻 I strive to be a **Frontend developer!**
+  
+- 🌱 I’m currently learning  **Next.js, Typescript**
+  
+- 🌟 Take a look at my [**Frontend Mentor**](https://www.frontendmentor.io/profile/adityaphasu) projects!
+  
+- 🚀 Enthusiastic about exploring new technologies to expand my skill set
+  
+- 📫 How to reach me **adityaphasu919@gmail.com**
 
+- 🎻 Fun fact **I love listening to orchestras**
+
+</section>
+
+<!------------------------------------------------------------------------------------------------------------------------------>
+
+<section align="center">
 <br>
-<br>
-<h2>🧰 Languages and Tools</h2>
+<h2 align="center">🧰 Languages and Tools</h2>
 <br>
 
 <details open>
@@ -23,7 +33,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </details>
-
 
 <details open>
 <summary><b>Frameworks and Libraries</b></summary>
@@ -48,35 +57,50 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 </details>
 
+</section>
 
+<!------------------------------------------------------------------------------------------------------------------------------> 
+
+<section align="center"> 
 <br>
+<h2>🫱🏼‍🫲🏼 Connect with me:</h2>
+<br>
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/boots)
+![Discord](https://img.shields.io/badge/Alphaboots%238192-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2&color=%234C5459)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-FFFFFF.svg?style=for-the-badge&logo=frontendmentor&logoColor=blue)](https://www.frontendmentor.io/profile/adityaphasu)
+
+<p>(Coming soon)</p>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
+
+</section>
 
 <!------------------------------------------------------------------------------------------------------------------------------>
 
+<section align="center">
+<br>
 <h2 align="center">👾 My GitHub Stats</h2>
-<br />
+<br>
 
-<div align="center">
+<div>
 
-![](https://github-readme-stats-liard-kappa.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&theme=dracula)
+![Languages](https://github-readme-stats-liard-kappa.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&hide_border=true&theme=dracula)
 
 </div>
   
 <div align="center">
-  
-![](https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&theme=dracula)
+
+<img src="https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" title="Github Stats"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula&hide_border=true" alt="Github Streak" title="Github Streak"/> 
 
 </div>
 
-<div align="center">
-  
-<!-- GitHub Streak -->
-![](https://github-readme-streak-stats.herokuapp.com?user=adityaphasu&theme=dracula)
-<br/>
-
-</div>
+</section>
 
 
