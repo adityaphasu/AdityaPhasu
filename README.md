@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Phasu</h1>
 
-<p align="center"> I'm a <strong>Frontend Developer in progress</strong>  with a passion for creating user-friendly and visually appealing web apps. I enjoy turning design concepts into interactive and functional websites! </p>
+<p align="center"> I'm a budding <strong>Frontend Developer</strong> with a passion for creating user-friendly and visually appealing web apps. I enjoy turning design concepts into interactive and functional websites! </p>
 <br>
 
 <section>
