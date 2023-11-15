@@ -55,8 +55,10 @@
 <h2>🫱🏼‍🫲🏼 Connect with me</h2>
 <br>
 
+
+![Discord](https://img.shields.io/badge/Alphaboots%238192-5865F2.svg?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2&color=%234C5459) 
+
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/boots)
-![Discord](https://img.shields.io/badge/Alphaboots%238192-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2&color=%234C5459)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-FFFFFF.svg?style=for-the-badge&logo=frontendmentor&logoColor=blue)](https://www.frontendmentor.io/profile/adityaphasu)
 
 <p>(Coming soon)</p>
