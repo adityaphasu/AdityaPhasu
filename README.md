@@ -80,7 +80,7 @@
 
 <div>
 
-![Languages](https://github-readme-stats-liard-kappa.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&hide_border=true&theme=dracula)
+![Languages](https://github-readme-stats-liard-kappa.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&hide_border=true&theme=dracula&exclude_repo=github-readme-streak-stats)
 
 </div>
   
