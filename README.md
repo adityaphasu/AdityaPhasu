@@ -1,4 +1,4 @@
-<img width="170" alt="image" src="https://github.com/adityaphasu/AdityaPhasu/assets/101468793/445e4185-4018-43bd-afef-bf24521cde06"><h1 align="center">Hi 👋, I'm Aditya Phasu</h1>
+<h1 align="center">Hi 👋, I'm Aditya Phasu</h1>
 
 <p align="center"> I'm a budding <strong>Frontend Developer</strong> with a passion for creating user-friendly and visually appealing web apps. I enjoy turning design concepts into interactive and functional websites! </p>
 <br>
