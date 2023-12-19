@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Phasu</h1>
+<img width="170" alt="image" src="https://github.com/adityaphasu/AdityaPhasu/assets/101468793/445e4185-4018-43bd-afef-bf24521cde06"><h1 align="center">Hi 👋, I'm Aditya Phasu</h1>
 
 <p align="center"> I'm a budding <strong>Frontend Developer</strong> with a passion for creating user-friendly and visually appealing web apps. I enjoy turning design concepts into interactive and functional websites! </p>
 <br>
@@ -57,8 +57,7 @@
 <br>
 
 
-![Discord](https://img.shields.io/badge/Alphaboots%238192-5865F2.svg?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2&color=%234C5459) 
-
+[![Discord](https://img.shields.io/badge/Alphaboots-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2&color=%234C5459)](https://discordapp.com/users/542382520621072397)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/boots)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-FFFFFF.svg?style=for-the-badge&logo=frontendmentor&logoColor=blue)](https://www.frontendmentor.io/profile/adityaphasu)
 
