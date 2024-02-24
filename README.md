@@ -61,9 +61,7 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/boots)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-FFFFFF.svg?style=for-the-badge&logo=frontendmentor&logoColor=blue)](https://www.frontendmentor.io/profile/adityaphasu)
 
-<p>(Coming soon)</p>
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaphasu/)
 
 
 </section>
