@@ -58,10 +58,10 @@
 
 
 [![Discord](https://img.shields.io/badge/Alphaboots-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=%235865F2&color=%234C5459)](https://discordapp.com/users/542382520621072397)
-<!-- [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/boots) -->
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-FFFFFF.svg?style=for-the-badge&logo=frontendmentor&logoColor=blue)](https://www.frontendmentor.io/profile/adityaphasu)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaphasu/)
+
+<!-- [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/boots) -->
 
 
 </section>
