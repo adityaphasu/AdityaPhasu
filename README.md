@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Phasu</h1>
 
-<p align="center"> I'm a budding <strong>Frontend Developer</strong> with a passion for creating user-friendly and visually appealing web apps. I enjoy turning design concepts into interactive and functional websites! </p>
+<p align="center"> I'm an aspiring <strong>Frontend Developer</strong> who likes building user-friendly and visually engaging web apps. I enjoy turning design concepts into interactive and functional websites! </p>
 <br>
 
 <section>
@@ -15,8 +15,6 @@
 - 📫 How to reach me: **adityaphasu919@gmail.com**
 
 - 🎻 Fun fact **I love listening to orchestras**
-
-<br>
 
 <!-- [![Holopin Hacktoberfest Badges](https://holopin.me/adityaphasu)](https://holopin.io/@adityaphasu) -->
 
