@@ -18,7 +18,7 @@
 
 <br>
 
-[![Holopin Hacktoberfest Badges](https://holopin.me/adityaphasu)](https://holopin.io/@adityaphasu)
+<!-- [![Holopin Hacktoberfest Badges](https://holopin.me/adityaphasu)](https://holopin.io/@adityaphasu) -->
 
 </section>
 
