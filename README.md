@@ -6,7 +6,7 @@
 <section>
 
 
-- 🌱 I’m currently learning  **Next.js, Typescript**
+- 🌱 I’m currently learning  **Next.js, Typescript**, **Firebase**
   
 - 🌟 Take a look at my [**Frontend Mentor**](https://www.frontendmentor.io/profile/adityaphasu) projects!
   
