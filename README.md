@@ -12,7 +12,7 @@
   
 - 🚀 Enthusiastic about exploring new technologies to expand my skill set
   
-- 📫 How to reach me: **adityaphasu919@gmail.com**
+- 📫 How to reach me: **adityaphasu01@gmail.com**
 
 - 🎻 Fun fact **I love listening to orchestras**
 
