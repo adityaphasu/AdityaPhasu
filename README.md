@@ -76,18 +76,15 @@
 <br>
 <h2 align="center">👾 My GitHub Stats</h2>
 <br>
-
 <!-- 
 <div>
 ![Languages](https://github-readme-stats-liard-kappa.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&hide_border=true&theme=dracula&exclude_repo=github-readme-streak-stats)
 </div> 
 -->
-  
-<div align="center">
 
-![Stats Overview](https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&hide_border=true&theme=dracula)
-![Streak Stats](https://github-readme-streak-stats-eight-nu.vercel.app?user=adityaphasu&theme=dracula&hide_border=true)
-
+<div>
+<img src="https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" title="Github Stats" width="370"/> 
+<img src="https://github-readme-streak-stats-eight-nu.vercel.app?user=adityaphasu&theme=dracula&hide_border=true" alt="Github Streak" title="Github Streak" width="390"/> 
 </div>
 
 </section>
