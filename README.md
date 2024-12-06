@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Phasu</h1>
 
-<p align="center"> I'm an aspiring <strong>Frontend Developer</strong> who likes building user-friendly and visually engaging web apps. I enjoy turning design concepts into interactive and functional websites! </p>
+<p align="center"> I'm a <strong>Frontend Developer</strong> and I like building user-friendly and visually engaging web apps. I enjoy turning design concepts into interactive and functional websites! </p>
 <br>
 
 <section>
 
 
-- 🌱 I’m currently learning  **Next.js, Typescript**, **Firebase**
+- 🌱 I’m currently learning  **Next.js, Typescript**
   
 - 🌟 Take a look at my [**Frontend Mentor**](https://www.frontendmentor.io/profile/adityaphasu) projects!
   
