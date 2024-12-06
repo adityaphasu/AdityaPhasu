@@ -77,11 +77,11 @@
 <h2 align="center">👾 My GitHub Stats</h2>
 <br>
 
-<div>
+<!-- <div>
 
 ![Languages](https://github-readme-stats-liard-kappa.vercel.app/api/top-langs/?username=adityaphasu&layout=compact&hide_border=true&theme=dracula&exclude_repo=github-readme-streak-stats)
 
-</div>
+</div> -->
   
 <div align="center">
 
