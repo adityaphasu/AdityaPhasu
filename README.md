@@ -86,8 +86,8 @@
 
 <div>
 <img src="https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" title="Github Stats" width="370"/> 
-<img src="https://github-readme-streak-stats-eta-gules.vercel.app?user=adityaphasu&theme=dracula&hide_border=true" alt="Github Streak" title="Github Streak" width="390"/> 
-</div>
+<!-- <img src="https://github-readme-streak-stats-eta-gules.vercel.app?user=adityaphasu&theme=dracula&hide_border=true" alt="Github Streak" title="Github Streak" width="390"/> 
+</div> -->
 
 </section>
 
