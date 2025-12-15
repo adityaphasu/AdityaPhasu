@@ -10,11 +10,8 @@
   
 - 🌟 Take a look at my [**Frontend Mentor**](https://www.frontendmentor.io/profile/adityaphasu) projects!
   
-- 🚀 Enthusiastic about exploring new technologies to expand my skill set
-  
 - 📫 How to reach me: **adityaphasu01@gmail.com**
 
-- 🎻 Fun fact **I love listening to orchestras**
 
 <!-- [![Holopin Hacktoberfest Badges](https://holopin.me/adityaphasu)](https://holopin.io/@adityaphasu) -->
 
