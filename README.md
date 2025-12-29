@@ -71,7 +71,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------>
 
-<section align="center">
+<!-- <section align="center">
 <br>
 <h2 align="center">👾 My GitHub Stats</h2>
 <br>
@@ -81,11 +81,11 @@
 </div> 
 -->
 
-<div>
-<img src="https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" title="Github Stats" /> 
+<!-- <div>
+<img src="https://github-readme-stats-liard-kappa.vercel.app/api?username=adityaphasu&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" title="Github Stats" />  -->
 <!-- <img src="https://github-readme-streak-stats-eta-gules.vercel.app?user=adityaphasu&theme=dracula&hide_border=true" alt="Github Streak" title="Github Streak" width="390"/> 
 </div> -->
 
-</section>
+<!-- </section>  -->
 
 
